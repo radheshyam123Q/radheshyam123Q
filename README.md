@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @radheshyam123Q
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning ... cp
+- 👀 I’m interested in coding and new technology 
+- 🌱 I’m currently learning ... web development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
